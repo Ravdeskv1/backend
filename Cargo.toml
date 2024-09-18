@@ -1,7 +1,7 @@
-# Cargo.toml
 [package]
-name = "blockchain-backend"
+name = "blockchain"
+version = "0.1.0"
+edition = "2021"
 
 [dependencies]
-actix-web = "4.0" # For web server
-serde = { version = "1.0", features = ["derive"] } # For serialization
+actix-web = "4"

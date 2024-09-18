@@ -1,0 +1,5 @@
+/Users/new/Documents/Projects/backend/target/debug/deps/libactix_macros-83f4c3105f661fa6.dylib: /Users/new/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-macros-0.2.4/src/lib.rs
+
+/Users/new/Documents/Projects/backend/target/debug/deps/actix_macros-83f4c3105f661fa6.d: /Users/new/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-macros-0.2.4/src/lib.rs
+
+/Users/new/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-macros-0.2.4/src/lib.rs:
